@@ -11,7 +11,6 @@
 
 	This file is licensed under the GPL v2, or a later version
 	at the discretion of Linus
-
   might avoid issues. But we can also just decide to synchronize and
   contact all copyright holders on record if/when the occasion arises.
 
