@@ -1,7 +1,7 @@
 
  Note that the only valid version of the GPL as far as this project
  is concerned is _this_ particular version of the license (ie v2, not
- v2.2 or v3.x or whatever), unless explicitly otherwise stated.
+ v2.2 or v3.x or whatever), unless explicitly otherwise stated
 
  HOWEVER, in order to allow a migration to GPLv3 if that seems like
  a good idea, I also ask that people involved with the project make
